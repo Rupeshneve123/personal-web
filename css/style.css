@@ -1,0 +1,64 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #232320;
+  font-family: 'Jua', sans-serif;
+}
+h1{
+  
+  font-size: 80px;
+  margin: 0 auto 0 auto;
+}
+.top-container{
+  background-color: #DDDDDD;
+  padding-top: 170px;
+
+}
+.middle-container{
+  background: linear-gradient(
+39.4deg
+,#b6a0ea -2.55%,rgba(182,160,234,0) 45.21%),#f1ebff;
+
+}
+.bottom-container{
+  background: linear-gradient(
+39.4deg
+,#b6a0ea -2.55%,rgba(182,160,234,0) 45.21%),#f1ebff;
+
+}
+.top-cloud{
+  position: absolute;
+  left: 900px;
+  top: 110px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+h2,h3{
+  font-family: 'Open Sans', sans-serif;
+}
+hr{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.profile-photo{
+  width: 200px;
+  height: 200px;
+  padding-top: 20px;
+}
+.skill{
+  width: 200px;
+  height: 200px;
+}
+.contact{
+  width: 15px;
+  height: 15px;
+}
+.linkedinn{
+  width: 15px;
+  height: 15px;
+}
+.twitter{
+  width: 15px;
+  height: 15px;
+}
